@@ -3,11 +3,11 @@
 //  WeatherApp
 //
 //  Created by Stephanie Diep on 2021-11-30.
-//
+// https://www.youtube.com/watch?v=X2W9MPjrIbk&ab_channel=DesignCode
 
 import SwiftUI
 
-struct WeatherRow: View {
+struct WeatherRow: View { 
     var logo: String
     var name: String
     var value: String
