@@ -12,7 +12,7 @@ struct healthAppApp: App {
     var body: some Scene {
         WindowGroup {
             NavigationView{
-                OnBoardingScreen()
+                ContentView()
             }
             .navigationViewStyle(.stack)
         }
